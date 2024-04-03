@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Create an application from scratch alone<br>🎲 Fun fact: I don't like poo</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Create an application from scratch alone<br>🎲 Fun fact: I don't like POO</p>
 
 ###
 
