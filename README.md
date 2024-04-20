@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gustavo and I am a Brazilian frontend developer. I have just over a year in the field working on small projects and personal projects to study and improve my skills.</p>
+<p align="left">My name is Gustavo and I am a Brazilian developer. I have just over a year in the field working on small projects and personal projects to study and improve my skills.</p>
 
 ###
 
