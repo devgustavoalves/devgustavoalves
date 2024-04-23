@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python<br>🎯 Goals: Create an application from scratch alone<br>🎲 Fun fact: Centering a div is very difficult</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python<br>🎯 Goals: Get a job as a junior developer</p>
 
 ###
 
