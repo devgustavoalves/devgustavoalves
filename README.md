@@ -20,7 +20,7 @@
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python<br>🎯 Goals: Get a job as a junior developer</p>
 
-<h1>OS</h1>
+<h3>OS</h3>
 
 ###
 
