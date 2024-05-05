@@ -20,8 +20,9 @@
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python<br>🎯 Goals: Get a job as a junior developer</p>
 
+<h1>OS</h1>
 
-
+###
 
 <div align="left">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" alt="linux-logo"/>
