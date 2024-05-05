@@ -39,17 +39,17 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python-logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="30" alt="django-logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5-logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" alt="javascript-logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql-logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="aws-logo"  />
 </div>
 
