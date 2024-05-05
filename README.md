@@ -21,6 +21,7 @@
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python<br>🎯 Goals: Get a job as a junior developer</p>
 
 
+
 <div align="left>
 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30" alt="ubuntu-logo"/>
