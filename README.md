@@ -6,30 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devgustavoalves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devgustavoalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python<br>🎯 Goals: Get a job as a junior developer</p>
-
-<h3>OS</h3>
-
-###
-
-<div align="left">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" alt="linux-logo"/>
-</div>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -49,6 +25,21 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="aws-logo"  />
 </div>
+
+###
+<h2 align="left">About me</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devgustavoalves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devgustavoalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python<br>🎯 Goals: Get a job as a junior developer</p>
 
 ###
 
