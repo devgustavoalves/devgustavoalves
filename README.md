@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python<br>🎯 Goals: Get a job as a junior developer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java<br>🎯 Goals: Get a job as a junior developer</p>
 
 ###
 
