@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gustavo and I am a Brazilian developer. I have just over a year in the field working on small projects and personal projects to study and improve my skills.</p>
+<p align="left"I'm Gustavo, a Brazilian developer focused on building end-to-end web solutions. I have professional experience in the healthcare sector, where I specialize in optimizing processes with technology. I also develop e-commerce projects and full-stack applications using modern technologies such as React, Node.js, and Python..</p>
 
 ###
 
@@ -60,8 +60,11 @@
   </a>
 </p>
 
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java<br>🎯 Goals: Get a job as a junior developer</p>
+<p align="left">
+  ✨ Bringing ideas to life with code.<br>
+  📚 Lifelong learner, currently focused on Java and full-stack best practices.<br>
+  🎯 Goals: Building high-performance applications and successfully launching my e-commerce ventures.
+</p>
 
 ###
 
